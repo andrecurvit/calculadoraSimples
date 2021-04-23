@@ -4,7 +4,7 @@
 #Data: 22/04/2021
 
 
-print("--------CACLCULADORA v1.0-----------")
+print("--------CALCULADORA v1.0-----------")
 print("------= by: Andre Almeida ----------")
 print("---------- BEM VINDO!!! ------------")
 
@@ -36,5 +36,5 @@ while sair == False:
     print("Resultado")
     print(op)
     teste = input("Deseja sair? (n/s): ")
-    if teste == "s" or "S":
+    if teste == "s":
         sair = True
